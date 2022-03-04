@@ -1,0 +1,13 @@
+form{
+    width: 300px;
+  }
+.addition{
+    width: 60px;
+    text-align: center;
+}
+.addition:hover{
+   color:chartreuse
+}
+p{
+    color: rgba(40, 199, 35, 0.74);
+}
